@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AsadbekCoder172
 - 🌱 I’m currently learning HTML(JS)
-- 📫 How to reach me ...
 - ⚡ Fun fact: I'm FrontEnd Developer
 - Hobby:PLaying Computer games and coding
 
